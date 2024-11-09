@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9Hy//CAiI36LQoMhZKXmlG3sykocQ7UziR137OxqiLmjdBzwhxKgjTbCch4IrERxEwYeScNMa6lAqUIS7MQ+Q==",
+  "success": true,
+  "projectFilePath": "/home/mtang/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/home/mtang/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/home/mtang/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/home/mtang/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.10/microsoft.netcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/mtang/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.10/microsoft.aspnetcore.app.runtime.linux-x64.8.0.10.nupkg.sha512",
+    "/home/mtang/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/8.0.10/microsoft.netcore.app.crossgen2.linux-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
